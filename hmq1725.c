@@ -23,7 +23,7 @@
 #include "sha3/sph_sha2.h"
 #include "sha3/sph_haval.h"
 
-void HMQ1725_hash(const char* input, char* output, uint32_t len)
+void hmq1725_hash(const char* input, char* output, uint32_t len)
 {
     sph_blake512_context      ctx_blake;
     sph_bmw512_context        ctx_bmw;
