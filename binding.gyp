@@ -20,6 +20,7 @@
                 "hsr14.c",
                 "keccak.c",
                 "lbry.c",
+                "hmq1725.c",
                 "Lyra2.c",
                 "Lyra2RE.c",
                 "Lyra2REV2.c",
